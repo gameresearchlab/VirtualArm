@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualArm", "Assembly-CSharp.csproj", "{C90BA20B-A81F-4B79-8DC0-D4C656F12B8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualArm", "Assembly-CSharp-Editor.csproj", "{DE59E2FE-7704-F071-F2ED-E46A208CA39F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C90BA20B-A81F-4B79-8DC0-D4C656F12B8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90BA20B-A81F-4B79-8DC0-D4C656F12B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90BA20B-A81F-4B79-8DC0-D4C656F12B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C90BA20B-A81F-4B79-8DC0-D4C656F12B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE59E2FE-7704-F071-F2ED-E46A208CA39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE59E2FE-7704-F071-F2ED-E46A208CA39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE59E2FE-7704-F071-F2ED-E46A208CA39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE59E2FE-7704-F071-F2ED-E46A208CA39F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

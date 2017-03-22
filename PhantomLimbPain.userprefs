@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SerialPortReader.cs">
+    <Files>
+      <File FileName="Assets/BendSensor/Scripts/BendSensorOrientation.cs" Line="13" Column="49" />
+      <File FileName="Assets/LeapMotion/Scripts/Utils/LeapRecorder.cs" Line="42" Column="39" />
+      <File FileName="Assets/LeapMotion/Scripts/HandController.cs" Line="450" Column="16" />
+      <File FileName="Assets/Myo/Scripts/BendSensorHandController.cs" Line="123" Column="42" />
+      <File FileName="Assets/SerialPortReader.cs" Line="8" Column="24" />
+      <File FileName="Assets/Myo/Scripts/ThalmicHub.cs" Line="118" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\kp\Documents\PhantomLimbPain\Assets\Myo\Scripts\MyoHandController.cs" line="261" column="1" />
+      <Breakpoint file="/Users/kp/Downloads/PhantomLimbPain/Assets/Myo/Scripts/BendSensorHandController.cs" line="101" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
